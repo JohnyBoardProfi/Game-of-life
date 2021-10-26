@@ -1,0 +1,6 @@
+C:\Users\Admin\Saved Games\Desktop\Game-of-Life-master\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Admin\Saved Games\Desktop\Game-of-Life-master\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Admin\Saved Games\Desktop\Game-of-Life-master\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\Admin\Saved Games\Desktop\Game-of-Life-master\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Saved Games\Desktop\Game-of-Life-master\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\Users\Admin\Saved Games\Desktop\Game-of-Life-master\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.pdb
